@@ -30,19 +30,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartaGrandia&layout=compact&theme=radial&hide_border=true&hide=html,css" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartaGrandia&layout=compact&theme=radial" alt="Top Languages" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartaGrandia&theme=radial&hide_border=true&hide=html,css" alt="Top Languages" />
-</p>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartaGrandia&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartaGrandia&layout=compact&theme=dracula&hide_border=true&hide=html,css" />
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartaGrandia&layout=compact&theme=catppuccin&hide_border=true&hide=html,css" />
 ---
 
 ### 📬 Connect with Me
