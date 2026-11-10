@@ -33,4 +33,3 @@
 ### 📬 Connect with Me
 
 - 💼 **LinkedIn:** [linkedin.com/in/marta-grandia](https://www.linkedin.com/in/martagrandia/)
-- 📍 **Location:** Barcelona Metropolitan Area, Spain
