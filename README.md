@@ -30,17 +30,6 @@
 
 ---
 
-### 🏛️ Featured Engineering Projects
-
-| Project | Tech Stack | Technical Scope |
-| :--- | :--- | :--- |
-| **[webserv](https://github.com/MartaGrandia/webserv)** | C++98, Sockets, HTTP/1.1 | Non-blocking HTTP/1.1 web server featuring I/O multiplexing, CGI handling, and custom request parsing. |
-| **[minishell](https://github.com/MartaGrandia/minishell)** | C, POSIX, Syscalls | POSIX-compliant UNIX shell interpreter managing pipelines, redirections, AST evaluation, and signal control. |
-| **[philosophers](https://github.com/MartaGrandia/philosophers)** | C, pthreads, Mutexes | Multi-threaded concurrency model resolving resource race conditions and deadlock prevention. |
-| **[so_long](https://github.com/MartaGrandia/so_long)** | C, MiniLibX, DFS | 2D graphical engine with event-driven user input hooks and recursive Depth-First Search map solvability validation. |
-
----
-
 ### 📬 Connect with Me
 
 - 💼 **LinkedIn:** [linkedin.com/in/marta-grandia](https://www.linkedin.com/in/martagrandia/)
