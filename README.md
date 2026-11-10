@@ -41,19 +41,6 @@
 
 ---
 
-### 📊 GitHub Activity & Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MartaGrandia&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartaGrandia&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MartaGrandia&theme=radial&hide_border=true" alt="GitHub Streak" width="97%" />
-</p>
-
----
-
 ### 📬 Connect with Me
 
 - 💼 **LinkedIn:** [linkedin.com/in/marta-grandia](https://www.linkedin.com/in/martagrandia/)
