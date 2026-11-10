@@ -30,7 +30,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartaGrandia&layout=compact&theme=radial" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartaGrandia&layout=compact&theme=radial&no-cache=true" alt="Top Languages" />
 </p>
 ---
 
